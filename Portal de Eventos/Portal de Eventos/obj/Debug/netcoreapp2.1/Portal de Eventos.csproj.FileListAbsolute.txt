@@ -1,0 +1,33 @@
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.deps.json
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.runtimeconfig.json
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.runtimeconfig.dev.json
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.dll
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.pdb
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.Views.dll
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.Views.pdb
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.csprojAssemblyReference.cache
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.csproj.CoreCompileInputs.cache
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorAssemblyInfo.cache
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorAssemblyInfo.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.AssemblyInfoInputs.cache
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.AssemblyInfo.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.TagHelpers.input.cache
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.TagHelpers.output.cache
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorCoreGenerate.cache
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorTargetAssemblyInfo.cache
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorTargetAssemblyInfo.cs
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.Views.pdb
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.dll
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.pdb
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.csproj.CopyComplete
+C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\pages\Index.g.cshtml.cs
