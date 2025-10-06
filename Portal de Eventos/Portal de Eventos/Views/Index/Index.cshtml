@@ -1,0 +1,67 @@
+﻿@*
+    Página inicial do Portal de Eventos
+    Função: apresentar o site, introduzir o propósito e permitir que o usuário acesse ou crie uma conta.
+    Estrutura:
+    - Navbar com navegação básica
+    - Cabeçalho com logo/título
+    - Seções de apresentação e "Sobre nós"
+    - Rodapé simples
+*@
+@{
+    ViewData["Title"] = "Início";
+}
+
+<!-- Navegação principal -->
+<nav>
+    <!--
+        Essa parte do nav vai ficar encarregada de fazer um scroll automático pela parte da apresentação do index.
+        Não há necessidade de muitos links aqui — apenas seções principais.
+    -->
+    <a href="#bem-vindo">Bem-vindo</a>
+    <a href="#sobre-nos">Sobre Nós</a>
+
+    <!-- Navegação para a parte de cadastros e login (Usuários) -->
+    <a href="/Usuarios/Cadastrar">Cadastrar</a>
+    <a href="/Usuarios/Login">Entrar</a>
+</nav>
+
+<!-- Cabeçalho -->
+<header>
+    <!-- Div para o título e imagem do site dentro do cabeçalho -->
+    <div id="header-conteudo">
+        <!-- (Dica: mais tarde, defina um nome oficial pro site) -->
+        <h1>Bem-vindo ao Portal de Eventos</h1>
+        <img src="~/img/logo.png" alt="Logo do site de eventos" />
+    </div>
+</header>
+
+<!-- Conteúdo principal -->
+<main>
+    <!-- Seção de apresentação -->
+    <section id="bem-vindo">
+        <h2>Descubra e gerencie eventos com facilidade</h2>
+        <p>
+            Nosso portal permite que você explore, cadastre e participe de eventos de forma prática e intuitiva.
+            Ideal para quem quer organizar ou encontrar eventos de todos os tipos.
+        </p>
+        <img src="~/img/eventos-banner.png" alt="Imagem ilustrativa de eventos" />
+    </section>
+
+    <!-- Seção 'Sobre nós' -->
+    <section id="sobre-nos">
+        <h2>Sobre Nós</h2>
+        <p>
+            O Portal de Eventos foi criado com o objetivo de conectar pessoas e experiências.
+            Aqui, cada evento é uma oportunidade de aprender, se divertir e compartilhar momentos.
+        </p>
+        <img src="~/img/sobre.png" alt="Imagem ilustrativa sobre o projeto" />
+    </section>
+</main>
+
+<!-- Rodapé -->
+<footer>
+    <div id="rodape">
+        <p>&copy; 2025 - Portal de Eventos. Todos os direitos reservados.</p>
+        <img src="~/img/logo.png" alt="Logo do site de eventos" />
+    </div>
+</footer>
