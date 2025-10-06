@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Portal de Eventos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d0cb04e14a2e9c79da0779998d1e3081b49b218")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e51743e7efb743c381e786fe0b346ce9bc419f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Portal de Eventos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Portal de Eventos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
