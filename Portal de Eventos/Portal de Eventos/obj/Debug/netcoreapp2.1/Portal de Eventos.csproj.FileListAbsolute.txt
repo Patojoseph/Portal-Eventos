@@ -36,3 +36,44 @@ C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Porta
 C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.genruntimeconfig.cache
 C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal d.DDD0CEFA.Up2Date
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.deps.json
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.runtimeconfig.json
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.runtimeconfig.dev.json
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.dll
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.pdb
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.Views.dll
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\Portal de Eventos.Views.pdb
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.csproj.AssemblyReference.cache
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.AssemblyInfoInputs.cache
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.AssemblyInfo.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.csproj.CoreCompileInputs.cache
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorAssemblyInfo.cache
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorAssemblyInfo.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.sourcelink.json
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.TagHelpers.input.cache
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.TagHelpers.output.cache
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorCoreGenerate.cache
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Alterar_Evetos.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Alterar_Usuarios.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Apagar_Evento.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Apagar_Usuarios.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Cadastrar_Eveto.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Cadastrar_Usuarios.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Listar_Eventos.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Listar_Usuarios.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Eventos\Abrir.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Eventos\Listar.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Index\Index.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Cadastrar.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Login.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorTargetAssemblyInfo.cache
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorTargetAssemblyInfo.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.Views.pdb
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.dll
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.pdb
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.genruntimeconfig.cache
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal d.DDD0CEFA.Up2Date

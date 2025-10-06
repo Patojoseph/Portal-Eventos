@@ -1,5 +1,52 @@
 ﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    Essa tela vai ser responsável por fazer o login dos usuários no sistema.
+    Ela deve conter: 
+    - Um formulário com os campos necessários para o login sendo eles {
+        - Nome
+        - Email
+        - Senha
+        - Botão de submit (Entrar)
+        - Link para a tela de cadastro (Não tem uma conta ?) 
+    }
 *@
 @{
+    ViewData["Title"] = "Login";
 }
+
+<header>
+    <!--Aqui deve ter uma mensagem de bem vindo e o nome do site-->
+    <div class="logo">
+        <h1>Bem vindo de volta</h1>
+        <img src="~/images/logo.png" alt="Logo do Site" />
+        <p>É sempre muito bom de ver de volta</p>
+    </div>
+</header>
+
+<main>
+    <!--Aqui vai ficar o form para fazer o cadastro do cliente-->
+    <form id="form_login" action="" method="post">
+        <div>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" placeholder="Seu Nome" required />
+        </div>
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Seu melhor Email" required />
+        </div>
+        <div>
+            <label for="senha">Senha:</label>
+            <input type="password" id="senha" name="senha" required />
+        </div>
+        <div>
+            <button type="submit">Entrar</button>
+        </div>
+        <div>
+            <a href="/Usuarios/Cadastrar">Não tenho uma conta ainda</a>
+        </div>
+    </form>
+</main>
+
+<footer>
+    <!--Aqui vai ficar o rodapé do site-->
+    <p>&copy; 2024 Eventos. Todos os direitos reservados.</p>
+</footer>
