@@ -1,5 +1,35 @@
 ﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+   Essa página deve abrir quando for selecionado algum evento, assim ela vai ser modavel ao evento escolhido da página de listar
+
+    Com isso deve ser possível ver detalhes do evento como: 
+        -Descrição
+        -Nome
+        -Site para compra de ingresso se for algum evento de ingresso
+        -Informações
 *@
 @{
+    ViewData["Title"] = " "; <!--Aqui seria o nome do evento-->
 }
+
+<header>
+    <h1 id="h_EventoNome">
+        <!--Nome do evento-->
+        LolaPaluza
+    </h1>
+    <img id="img_EventoImg" src="#" alt="Imagem do lolapaluza" /> <!--Imagem do evento-->
+</header>
+
+
+<main>
+    <nav id="nv_Sections">
+        <!--Vai ter links de acesso rápido para descrição, info e site para compra do ingresso-->
+        <!--A ideia é quando for clicado o P, ele da um scroll automático até cada sessão-->
+        <p id="p_DescricaoNav" class="Pnav">Descrição</p>
+        <p id="p_InformacoesNav" class="Pnav">Informações</p>
+        <p id="p_Compra" class="Pnav">Como ir</p>
+    </nav>
+
+    <section id="sec_Descricao" class=" ">
+
+    </section>
+</main>
