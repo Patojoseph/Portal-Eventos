@@ -1,5 +1,53 @@
 ﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    Essa é a pagina inicial da parte administrativa, onde nela vamos ter o inicio da parte administrativa do site
+
+    Essa página só pode ser acessada caso seja feito um login administrativo na tela de login
+    
+    Essa pagina vai ser composta por uma apresentação ao usuário logado na conta adiministrativa e logo em seguida dois cards
+    sendo um card para o controle das áreas de eventos e outro para a parte dos usuários.
 *@
 @{
+    ViewData["Title"] = "Inicio Administrativo";
 }
+
+<!--Parte do cabeçalho de boas vindas para o usuário-->
+<header>
+    <h1 id="h_BoasVindas" class="">
+        Bem Vindo
+    </h1>
+    <p id="p_BoasVindas" class="">
+        Aqui estamos no painel administrativo.
+    </p>
+</header>
+
+<!--Parte principal das duas cards-->
+<main>
+    <div id="dv_Eventos" class="">
+        <p id="p_Eventos" class="">
+            Aqui nessa parte você tera acesso a todo controle dos eventos como:
+        </p>
+        <ul id="ul_Eventos" class="">
+            <li>Cadastrar</li>
+            <li>Editar</li>
+            <li>Remover</li>
+        </ul>
+        <!--Acesso a parte da lista de eventos-->
+        <button id="btn_Eventos" class="">Acessar eventos</button>
+    </div>
+    <div id="dv_Usuarios" class="">
+        <p id="p_Usuarios" class="">
+            Aqui nessa parte você tera acesso a todo controle dos usuarios como:
+        </p>
+        <ul id="ul_Usuarios" class="">
+            <li>Cadastrar</li>
+            <li>Editar</li>
+            <li>Remover</li>
+        </ul>
+        <!--Acesso a parte da lista de eventos-->
+        <button id="btn_Usuarios" class="">Acessar usuarios</button>
+    </div>
+</main>
+
+<footer>
+    <p id="p_VersaoSistema"></p>
+</footer>

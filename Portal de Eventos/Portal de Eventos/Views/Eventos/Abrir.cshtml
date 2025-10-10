@@ -1,15 +1,25 @@
 ﻿@*
-   Essa página deve abrir quando for selecionado algum evento, assim ela vai ser modavel ao evento escolhido da página de listar
+    Essa página deve abrir quando for selecionado algum evento, assim ela vai ser modavel ao evento escolhido da página de listar
 
-    Com isso deve ser possível ver detalhes do evento como: 
-        -Descrição
-        -Nome
-        -Site para compra de ingresso se for algum evento de ingresso
-        -Informações
+     Com isso deve ser possível ver detalhes do evento como:
+         -Descrição
+         -Nome
+         -Site para compra de ingresso se for algum evento de ingresso
+         -Informações
 *@
 @{
     ViewData["Title"] = " "; <!--Aqui seria o nome do evento-->
 }
+
+<nav id="nv_Sections">
+    <!--Vai ter links de acesso rápido para descrição, info e site para compra do ingresso-->
+    <!--A ideia é quando for clicado o P, ele da um scroll automático até cada sessão-->
+    <ul class="flex gap-4">
+        <li><a href="#sec_Descricao" class="Pnav">Descrição</a></li>
+        <li><a href="#sec_Informacoes" class="Pnav">Informações</a></li>
+        <li><a href="#sec_ComoIr" class="Pnav">Como ir</a></li>
+    </ul>
+</nav>
 
 <header>
     <h1 id="h_EventoNome">
@@ -19,17 +29,30 @@
     <img id="img_EventoImg" src="#" alt="Imagem do lolapaluza" /> <!--Imagem do evento-->
 </header>
 
-
 <main>
-    <nav id="nv_Sections">
-        <!--Vai ter links de acesso rápido para descrição, info e site para compra do ingresso-->
-        <!--A ideia é quando for clicado o P, ele da um scroll automático até cada sessão-->
-        <p id="p_DescricaoNav" class="Pnav">Descrição</p>
-        <p id="p_InformacoesNav" class="Pnav">Informações</p>
-        <p id="p_Compra" class="Pnav">Como ir</p>
-    </nav>
-
     <section id="sec_Descricao" class=" ">
-
+        <div id="dv_Descricao" class="">
+            <p id="p_Descricao" class="">
+                <!--Texto de descrição do evento vai vir aqui-->
+            </p>
+        </div>
+    </section>
+    <section id="sec_Informacoes" class="">
+        <div id="dv_Informacoes" class="">
+            <p id="p_Informacoes" class="">
+                <!--Texto de informações vem aqui-->
+            </p>
+        </div>
+    </section>
+    <section id="sec_ComoIr">
+        <div id="dv_ComoIr">
+            <p id="p_ComoIR">
+                <!--Aqui vai o texto e outros componentes de como ir para o local do evento e venda dos engressos caso seja por.-->
+            </p>
+        </div>
     </section>
 </main>
+
+<footer>
+    <p>&copy; 2024 Minha Aplicação de Eventos</p>
+</footer>
