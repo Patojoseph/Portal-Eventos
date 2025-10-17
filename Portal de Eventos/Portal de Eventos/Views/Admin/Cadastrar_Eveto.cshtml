@@ -18,9 +18,19 @@
 }
 
 
+<!--A estrutura ta pronta, já pode pasar para a correção e ajustes-->
+
 <header>
-    <h1 id="h_Title" class="">Cadastrar Eventos</h1>
-    <p id="p_TitleDescription">Preencha todos os campos para realizar o cadastro completo</p>
+    <div id="div_Title">
+        <h1 id="h_Title" class="">Cadastrar Eventos</h1>
+        <p id="p_TitleDescription" class="">Preencha todos os campos para realizar o cadastro completo</p>
+    </div>
+    <div id="div_Voltar">
+        <!--Aqui vai ter um botão com o icone de voltar, nesse caso volta para a pagina anterior, a de listar eventos-->
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8" />
+        </svg>
+    </div>
 </header>
 
 <main>
@@ -28,11 +38,37 @@
         <div id="div_imgs">
             <img src="#" alt="Foto do evento" />
         </div>
+        <!--Aqui vão todos os campos necessários para fazer o cadastro de um novo evento-->
         <div id="div_Campos">
             <label for="Nome">Nome:</label>
-            <input type="text" name="Nome" id="Nome" placeholder="Nome do Evento" required />
-            <label for="Nome">Data</label>
-            <input type="date" name="Data" id="Data" placeholder="Data do Evento" required />
+            <input type="text" name="Nome" id="intp_Nome" placeholder="Nome do Evento" class="" required />
+            <label for="Nome">Data:</label>
+            <input type="date" name="Data" id="inpt_Data" placeholder="Data do Evento" class="" required />
+            <label for="Horario">Horário:</label>
+            <input type="time" name="Horario" id="inpt_Horario" placeholder="Horario do Evento" class="" required/>
+            <label for="Local">Local:</label>
+            <input type="text" name="Local" id="inpt_Local" placeholder="Local do Evento" class="" required/>
+            <label for="Descricao">Descrição:</label>
+            <textarea name="Descricao" id="txt_Descricao" class="" required></textarea>
+        </div>
+        <div id="div_Btn">
+            <button id="btn_Criar" class="">Criar</button>
         </div>
     </form>
+    <!--Pop de confirmação do cadastro do evento-->
+    <div id="div_PopUp">
+        <div id="div_TitlePop">
+            <h3 id="h_TitlePop" class="">Deseja criar esse evento?</h3>
+            <p id="p_DescriptionPop" class="">Após sua criação ele será visivel para os clientes</p>
+        </div>
+        <div id="div_ButtonsPop">
+            <button id="btn_CancelarPop" class="">Cancelar</button>
+            <button id="btn_ConfirmarPop" class="">Confirmar</button>
+        </div>
+    </div>
 </main>
+
+<footer>
+    <!--Footer por padrão, mas em si não é tanto necessário pra essa tela-->
+    <p id="p_VersaoSistema"></p>
+</footer>
