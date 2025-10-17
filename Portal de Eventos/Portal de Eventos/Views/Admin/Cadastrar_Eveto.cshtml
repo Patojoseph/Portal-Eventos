@@ -1,5 +1,38 @@
 ﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    Nessa pagina você pode fazer o cadastro de algum evento, essa página ela é acessada pelo botão de + na pagina de listar eventos
+    nela vai conter as seguintes coisas 
+
+    -Campos para cadastrar o novo evento {
+        Nome, Data, Descrição, Imagem do evento, horario, local,    
+    }
+
+    Eles vão estar dispostos com a imagem primeiro, onde vaie star vazio, clicar e colocar a imagem lá via upload
+    Tudo vai estar centralizado no meio
+    Em seguida todos os campos do form vai ser apresentados
+    Por fim o botão de salvar
+
+    Ao Salvar vai aparecer um popup de confirmação do cadastro de eventos
 *@
 @{
+    ViewData["Title"] = "Cadastrar Eventos";
 }
+
+
+<header>
+    <h1 id="h_Title" class="">Cadastrar Eventos</h1>
+    <p id="p_TitleDescription">Preencha todos os campos para realizar o cadastro completo</p>
+</header>
+
+<main>
+    <form>
+        <div id="div_imgs">
+            <img src="#" alt="Foto do evento" />
+        </div>
+        <div id="div_Campos">
+            <label for="Nome">Nome:</label>
+            <input type="text" name="Nome" id="Nome" placeholder="Nome do Evento" required />
+            <label for="Nome">Data</label>
+            <input type="date" name="Data" id="Data" placeholder="Data do Evento" required />
+        </div>
+    </form>
+</main>
