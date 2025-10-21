@@ -47,8 +47,6 @@ C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\D
 C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Portal de Eventos.RazorCoreGenerate.cache
 C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Alterar_Evetos.cshtml.g.cs
 C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Alterar_Usuarios.cshtml.g.cs
-C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Apagar_Evento.cshtml.g.cs
-C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Apagar_Usuarios.cshtml.g.cs
 C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Cadastrar_Eveto.cshtml.g.cs
 C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Cadastrar_Usuarios.cshtml.g.cs
 C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
@@ -78,3 +76,5 @@ C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Porta
 C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Index\Index.cshtml.g.cs
 C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Cadastrar.cshtml.g.cs
 C:\Users\jose.pereira264\Documents\GitHub\Portal-Eventos\Portal de Eventos\Portal de Eventos\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Login.cshtml.g.cs
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\package-lock.json
+C:\Users\josef\Projetos\Portal-Eventos\Portal de Eventos\Portal de Eventos\bin\Debug\netcoreapp2.1\package.json

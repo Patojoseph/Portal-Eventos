@@ -7,7 +7,7 @@ using System.Text.Encodings.Web;
 
 namespace Portal_de_Eventos.Controllers
 {
-    public class TesteController : Controller
+    public class IndexController : Controller
     {
         public IActionResult Index()
         {

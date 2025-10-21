@@ -13599,23 +13599,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jose.pereira264\\.nuget\\packages\\": {},
+    "C:\\Users\\josef\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose.pereira264\\Documents\\GitHub\\Portal-Eventos\\Portal de Eventos\\Portal de Eventos\\Portal de Eventos.csproj",
+      "projectUniqueName": "C:\\Users\\josef\\Projetos\\Portal-Eventos\\Portal de Eventos\\Portal de Eventos\\Portal de Eventos.csproj",
       "projectName": "Portal de Eventos",
-      "projectPath": "C:\\Users\\jose.pereira264\\Documents\\GitHub\\Portal-Eventos\\Portal de Eventos\\Portal de Eventos\\Portal de Eventos.csproj",
-      "packagesPath": "C:\\Users\\jose.pereira264\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jose.pereira264\\Documents\\GitHub\\Portal-Eventos\\Portal de Eventos\\Portal de Eventos\\obj\\",
+      "projectPath": "C:\\Users\\josef\\Projetos\\Portal-Eventos\\Portal de Eventos\\Portal de Eventos\\Portal de Eventos.csproj",
+      "packagesPath": "C:\\Users\\josef\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\josef\\Projetos\\Portal-Eventos\\Portal de Eventos\\Portal de Eventos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jose.pereira264\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\josef\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -13624,7 +13624,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -13643,7 +13642,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "netcoreapp2.1": {
@@ -13682,7 +13681,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   },
