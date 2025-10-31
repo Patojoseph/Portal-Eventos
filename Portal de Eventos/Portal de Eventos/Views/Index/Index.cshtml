@@ -17,62 +17,65 @@
     <link href="~/css/outpu.css" rel="stylesheet" />
 </head>
 
-<body class=" bg-zinc-950 justify-center items-center">
-    <!-- Navegação principal -->
-    <nav class="bg-zinc-900 max-w-3/4 max-h-1/10 min-h-1/15 flex justify-center-safe items-center rounded-xl">
-        <!--
-            Essa parte do nav vai ficar encarregada de fazer um scroll automático pela parte da apresentação do index.
-            Não há necessidade de muitos links aqui — apenas seções principais.
-        -->
-        <a href="#bem-vindo" class="basis-1/4 md:basis-1/3 text-neutral-50 bg-zinc-800 rounded-lg mx-8 py-1 text-center font-semibold hover:underline">Bem-vindo</a>
-        <a href="#sobre-nos" class="basis-1/4 md:basis-1/3 text-neutral-50 bg-zinc-800 rounded-lg mx-8 py-1 text-center font-semibold hover:underline">Sobre Nós</a>
+<body class=" bg-zinc-950">
+    <div class="mx-8">
+        <!-- Navegação principal -->
+        <nav class="bg-zinc-900 w-full max-h-1/10 min-h-1/15 flex justify-center-safe items-center rounded-xl">
+            <!--
+                Essa parte do nav vai ficar encarregada de fazer um scroll automático pela parte da apresentação do index.
+                Não há necessidade de muitos links aqui — apenas seções principais.
+            -->
+            <a href="#bem-vindo" class="basis-1/4 md:basis-1/3 text-neutral-50 bg-zinc-800 rounded-lg mx-8 py-1 text-center font-semibold hover:underline">Bem-vindo</a>
+            <a href="#sobre-nos" class="basis-1/4 md:basis-1/3 text-neutral-50 bg-zinc-800 rounded-lg mx-8 py-1 text-center font-semibold hover:underline">Sobre Nós</a>
 
-        <!-- Navegação para a parte de cadastros e login (Usuários) -->
-        <a href="/Usuarios/Cadastrar" class="basis-1/4 md:basis-1/3 text-neutral-50 bg-zinc-800 rounded-lg mx-8 py-1 text-center font-semibold hover:underline">Cadastrar</a>
-        <a href="/Usuarios/Login" class="basis-1/4 md:basis-1/3 text-neutral-50 bg-zinc-800 rounded-lg mx-8 py-1 text-center font-semibold hover:underline">Entrar</a>
-    </nav>
+            <!-- Navegação para a parte de cadastros e login (Usuários) -->
+            <a href="/Usuarios/Cadastrar" class="basis-1/4 md:basis-1/3 text-neutral-50 bg-zinc-800 rounded-lg mx-8 py-1 text-center font-semibold hover:underline">Cadastrar</a>
+            <a href="/Usuarios/Login" class="basis-1/4 md:basis-1/3 text-neutral-50 bg-zinc-800 rounded-lg mx-8 py-1 text-center font-semibold hover:underline">Entrar</a>
+        </nav>
 
-    <!-- Cabeçalho -->
-    <header>
-        <!-- Div para o título e imagem do site dentro do cabeçalho -->
-        <div id="header-conteudo" class="max-w-3/4 max-h-1/10 min-h-1/15 flex justify-center-safe items-center rounded-xl my-8">
-            <!-- (Dica: mais tarde, defina um nome oficial pro site) -->
-            <h1 class="text-neutral-50 mx-8 text-5xl"> <i> Bem-vindo ao Portal de Eventos </i></h1>
-            <img src="~/img/logo.png" alt="Logo do site de eventos" class="mx-8 text-neutral-50" />
-        </div>
-        <div class="bg-neutral-50 h-1 max-w-3/5 rounded-lg"></div>
-    </header>
-
-    <!-- Conteúdo principal -->
-    <main class="max-w-3/5 justify-center">
-        <!-- Seção de apresentação -->
-        <section id="bem-vindo" class="">
-            <h2 class="text-neutral-50 text-3xl my-2 w-full mx-2 ">Descubra e gerencie eventos com facilidade</h2>
-            <div class="flex rounded-lg border-4 bg-zinc-800 shadow-xl border-zinc-900">
-                <p class="text-neutral-50 text-justify w-1/2 mx-3 my-2">
-                    Nosso portal permite que você explore, cadastre e participe de eventos de forma prática e intuitiva.
-                    Ideal para quem quer organizar ou encontrar eventos de todos os tipos.
-                </p>
-                <img src="~/img/eventos-banner.png" alt="Imagem ilustrativa de eventos" class="text-neutral-50 my-2" />
+        <!-- Cabeçalho -->
+        <header>
+            <!-- Div para o título e imagem do site dentro do cabeçalho -->
+            <div id="header-conteudo" class="w-full max-h-1/10 min-h-1/15 flex justify-center-safe items-center rounded-xl my-8">
+                <!-- (Dica: mais tarde, defina um nome oficial pro site) -->
+                <h1 class="text-neutral-50 mx-8 text-5xl"> <i> Bem-vindo ao Portal de Eventos </i></h1>
+                <img src="~/img/logo.png" alt="Logo do site de eventos" class="mx-8 text-neutral-50" />
             </div>
-        </section>
+            <div class="bg-neutral-50 h-1 w-full rounded-lg"></div>
+        </header>
 
-        <!-- Seção 'Sobre nós' -->
-        <section id="sobre-nos">
-            <h2>Sobre Nós</h2>
-            <p>
-                O Portal de Eventos foi criado com o objetivo de conectar pessoas e experiências.
-                Aqui, cada evento é uma oportunidade de aprender, se divertir e compartilhar momentos.
-            </p>
-            <img src="~/img/sobre.png" alt="Imagem ilustrativa sobre o projeto" />
-        </section>
-    </main>
-</body>
+        <!-- Conteúdo principal -->
+        <main class="max-w-3/5 justify-center m-8">
+            <!-- Seção de apresentação -->
+            <section id="bem-vindo" class="m-8">
+                <h2 class="text-neutral-50 text-3xl my-2 w-full mx-2 ">Descubra e gerencie eventos com facilidade</h2>
+                <div class="flex rounded-lg border-4 bg-zinc-800 shadow-xl border-zinc-900">
+                    <p class="text-neutral-50 text-justify w-1/2 mx-3 my-2">
+                        Nosso portal permite que você explore, cadastre e participe de eventos de forma prática e intuitiva.
+                        Ideal para quem quer organizar ou encontrar eventos de todos os tipos.
+                    </p>
+                    <img src="~/img/eventos-banner.png" alt="Imagem ilustrativa de eventos" class="text-neutral-50 my-2" />
+                </div>
+            </section>
 
-<!-- Rodapé -->
-<footer>
-    <div id="rodape">
-        <p>&copy; 2025 - Portal de Eventos. Todos os direitos reservados.</p>
-        <img src="~/img/logo.png" alt="Logo do site de eventos" />
+            <!-- Seção 'Sobre nós' -->
+            <section id="sobre-nos">
+                <h2 class="text-neutral-50 text-3xl my-2 w-full mx-2 ">Sobre Nós</h2>
+                <div class="flex rounded-lg border-4 bg-zinc-800 shadow-xl border-zinc-900">
+                    <p class="text-neutral-50 text-justify w-1/2 mx-3 my-2">
+                        O Portal de Eventos foi criado com o objetivo de conectar pessoas e experiências.
+                        Aqui, cada evento é uma oportunidade de aprender, se divertir e compartilhar momentos.
+                    </p>
+                    <img src="~/img/sobre.png" alt="Imagem ilustrativa sobre o projeto" class="text-neutral-50 my-2" />
+                </div>
+            </section>
+        </main>
+        <!-- Rodapé -->
+        <footer>
+            <div id="rodape">
+                <p>&copy; 2025 - Portal de Eventos. Todos os direitos reservados.</p>
+                <img src="~/img/logo.png" alt="Logo do site de eventos" />
+            </div>
+        </footer>
     </div>
-</footer>
+</body>

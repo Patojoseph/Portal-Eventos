@@ -1,2 +1,4 @@
 ﻿@import "tailwindcss";
 
+
+/*npx @tailwindcss/cli -i ./wwwroot/css/site.css -o ./wwwroot/css/outpu.css --watch*/
